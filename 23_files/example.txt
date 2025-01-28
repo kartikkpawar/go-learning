@@ -1,0 +1,1 @@
+HELLO GOLANG, THis is text is copied from example.txt
